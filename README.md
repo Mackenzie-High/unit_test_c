@@ -1,10 +1,12 @@
 # unit_test_c
 
-This project provides a simple [unit_test.h](src/unit_test.h) and [unit_test.c](src/unit_test.c) that can be used to perform unit-testing of C programs.
+Provides a [unit_test.h](src/unit_test.h) and [unit_test.c](src/unit_test.c) for use in unit-testing of C programs.
 
 ## Installation
 
-Simply download the aforesaid two files into your project.
+Simply download the two files into your project.
++ [unit_test.h](src/unit_test.h)
++ [unit_test.c](src/unit_test.c)
 
 ## Example
 
