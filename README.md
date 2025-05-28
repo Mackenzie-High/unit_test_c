@@ -5,8 +5,8 @@ Provides a [unit_test.h](src/unit_test.h) and [unit_test.c](src/unit_test.c) for
 ## Installation
 
 Simply download the two files into your project.
-+ [unit_test.h](src/unit_test.h)
-+ [unit_test.c](src/unit_test.c)
++ [unit_test.h](test/unit_test.h)
++ [unit_test.c](test/unit_test.c)
 
 ## Example
 
